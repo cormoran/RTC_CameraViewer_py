@@ -13,3 +13,6 @@ Windows8.1でも動作確認済み
 #Problem
 - 遅い（おそらくCameraImageからnumpy arrayに変換している所がネック）
 - 素直にc++版使うのが良さそう
+
+#License
+MIT License
